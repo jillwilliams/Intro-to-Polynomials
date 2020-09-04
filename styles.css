@@ -1,0 +1,109 @@
+body {
+    margin: 25px 25px;
+    background-color: green;
+    font-family: "Patrick Hand";
+    letter-spacing: 3px;
+    font-size: 1.7rem;
+    color: white;
+    text-shadow: 2px 2px 1px black;
+}
+h1 {
+    font-size: 2rem;
+    text-align: center;
+    color: white;
+    text-shadow: 2px 2px 1px black;
+}
+table {
+    border: 1px white solid;
+    width: 60%;
+    height: auto;
+    margin: 15px 20%;
+}
+tr {
+    outline: 1px white solid;
+    text-align: center;
+    height: 60px;
+    font-size: 1.5rem;
+}
+td {
+    border: 1px white solid;
+}
+#title {
+    text-align: center;
+}
+#pic1 {
+    width: 80%;
+    height: auto;
+    margin: 15px 10%;
+    border: 1px white solid;
+}
+#pic2, #pic3 {
+    width: 40%;
+    height: auto;
+    margin: 15px 30%;
+    border: 1px white solid;
+}
+#input1, #input2 {
+    width: 10%;
+    height: 60px;
+    font-family: "Patrick Hand";
+    text-align: center;
+    color: black;
+    margin: 15px 45%;
+    border: 1px black solid;
+    font-size: 1.5rem;
+}
+#myBtn {
+    width: 10%;
+    height: 60px;
+    font-family: "Patrick Hand";
+    text-align: center;
+    color: black;
+    margin: 15px 45%;
+    border: 1px black solid;
+    font-size: 1.5rem;
+}
+#demo, #demo2 {
+    width: 10%;
+    height: 60px;
+    font-family: "Patrick Hand";
+    text-align: center;
+    color: black;
+    margin: 5px 45%;
+    border: 1px black solid;
+    font-size: 1.5rem;
+    background-color: white;
+    padding-top: 8px;
+    text-shadow: none;
+}
+#demo3, #demo4 {
+    width: 20%;
+    height: 60px;
+    font-family: "Patrick Hand";
+    text-align: center;
+    color: black;
+    margin: 5px 40%;
+    border: 1px black solid;
+    font-size: 1.5rem;
+    background-color: white;
+    padding-top: 8px;
+    text-shadow: none;
+}
+#input3, #input4 {
+    width: 20%;
+    height: 60px;
+    font-family: "Patrick Hand";
+    text-align: center;
+    color: black;
+    margin: 15px 40%;
+    border: 1px black solid;
+    font-size: 1.5rem;
+}
+iframe {
+    margin: 15px 33%;
+    border: 1px black solid;
+}
+footer {
+    text-align: center;
+    font-size: 1rem;
+}
